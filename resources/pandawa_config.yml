@@ -1,0 +1,53 @@
+language: en_us
+workspace: workspace
+options:
+  scrollSpeed: 0.05
+  enableBlockSelect: true
+  mode: ace/mode/javascript
+  selectionStyle: line
+  wrapBehavioursEnabled: true
+  overwrite: false
+  useSoftTabs: true
+  displayIndentGuides: true
+  animatedScroll: true
+  behavioursEnabled: true
+  showPrintMargin: true
+  hScrollBarAlwaysVisible: false
+  showInvisibles: false
+  dragEnabled: true
+  showLineNumbers: true
+  highlightActiveLine: true
+  showGutter: true
+  fontSize: 13
+  enableMultiselect: true
+  navigateWithinSoftTabs: false
+  enableLiveAutocompletion: false
+  cursorStyle: ace
+  printMarginColumn: 80
+  dragDelay: 0
+  scrollPastEnd: 0
+  useTextareaForIME: true
+  focusTimeout: 0
+  foldStyle: markbegin
+  newLineMode: auto
+  tooltipFollowsMouse: true
+  mergeUndoDeltas: 'true'
+  showFoldWidgets: true
+  maxPixelHeight: 0
+  tabSize: 3
+  highlightSelectedWord: true
+  theme: ace/theme/dracula
+  copyWithEmptySelection: false
+  fadeFoldWidgets: true
+  printMargin: 80
+  useWorker: true
+  firstLineNumber: 1
+  indentedSoftWrap: true
+  enableBasicAutocompletion: true
+  vScrollBarAlwaysVisible: false
+  highlightGutterLine: true
+  wrap: false
+  fontFamily: Consolas
+lastOpened:
+- D:\PandawaIDE\workspace\DefaultPacks\SimpleGUI.js
+lastLocation: D:\TestServer\plugins

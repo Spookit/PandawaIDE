@@ -1,0 +1,6 @@
+name: DefaultPack
+author: Septogeddon
+main: MainScript
+version: '1.0'
+libraries: []
+dependencies: []
